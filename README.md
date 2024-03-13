@@ -34,7 +34,7 @@ Pokemon Stats: The data was extracted from the website [Wikidex](https://www.wik
 - PowerBI - Dashboard and Reports creation
   - [Download here](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 
-### Data Extraction/Collection
+### Data Extraction and Collection
 
 For the extraction of the data we use libraries from Python to request and parse the html file we need the data from
 1. Import the libraries
@@ -50,7 +50,7 @@ For the extraction of the data we use libraries from Python to request and parse
 6. Use Pandas to convert the data into a dataframe
 7. Export it to CSV
 
-### Data Cleaning/Preparation
+### Data Cleaning and Preparation
 
 In the initial data preparation phase, we performed the following tasks:
 1. Import the CSV file into an Excel file
@@ -71,7 +71,7 @@ EDA involved exploring the stats data to answer key questions, such as:
 
 In this case the analysis was very simple using a table chart, gauge chart, donut chart and stacked column chart from Power Bi to analyze and get the EDA answers we needed
 
-### Results/Findings
+### Results and Findings
 
 The analysis results are summarized as follows:
 1. The stronger pokemon in all the franchise base on total stat is Eternatus Dynamax Form![Screenshot 2024-03-12 135343](https://github.com/yonnyliang/pokemon_project/assets/110066372/6717ffe1-9825-436e-9d54-581e7b126f3c)
